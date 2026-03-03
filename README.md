@@ -39,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+## Database
+|  |
+| ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
