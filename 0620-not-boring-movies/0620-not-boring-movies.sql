@@ -1,0 +1,3 @@
+# Write your MySQL que-- Write your PostgreSQL query statement below
+Select * from Cinema where description != 'boring' and id % 2 != 0
+order by rating desc;
