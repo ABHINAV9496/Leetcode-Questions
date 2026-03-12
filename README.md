@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0577-employee-bonus) |
+| [0620-not-boring-movies](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0620-not-boring-movies) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Hash Table
 |  |
