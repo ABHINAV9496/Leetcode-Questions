@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0620-not-boring-movies) |
+| [0627-swap-sex-of-employees](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Hash Table
