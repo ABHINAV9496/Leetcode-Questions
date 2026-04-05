@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2974-minimum-number-game](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3024-type-of-triangle) |
@@ -91,9 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
