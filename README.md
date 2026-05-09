@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0561-array-partition) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
