@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3024-type-of-triangle) |
+| [3668-restore-finishing-order](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3668-restore-finishing-order) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3668-restore-finishing-order](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3668-restore-finishing-order) |
 ## Counting
 |  |
 | ------- |
