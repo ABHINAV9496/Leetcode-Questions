@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0009-palindrome-number) |
+| [0326-power-of-three](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
