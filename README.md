@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3701-compute-alternating-sum) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1672-richest-customer-wealth) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String Matching
 |  |
 | ------- |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0326-power-of-three) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
