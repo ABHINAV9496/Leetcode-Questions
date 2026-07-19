@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3794-reverse-string-prefix](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2942-find-words-containing-character](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2942-find-words-containing-character) |
+| [3794-reverse-string-prefix](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
 | ------- |
