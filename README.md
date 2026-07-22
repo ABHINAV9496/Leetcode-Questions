@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0561-array-partition) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
