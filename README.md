@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0342-power-of-four) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Simulation
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0342-power-of-four) |
 ## Graph Theory
 |  |
 | ------- |
