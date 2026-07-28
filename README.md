@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
