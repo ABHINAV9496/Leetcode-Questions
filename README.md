@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0561-array-partition) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
