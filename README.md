@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0169-majority-element) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
