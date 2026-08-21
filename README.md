@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1323-maximum-69-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1323-maximum-69-number) |
 | [2396-strictly-palindromic-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0561-array-partition) |
+| [1323-maximum-69-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1323-maximum-69-number) |
 ## Matrix
 |  |
 | ------- |
