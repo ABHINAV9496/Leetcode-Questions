@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3945-digit-frequency-score](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3945-digit-frequency-score) |
 ## Database
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3668-restore-finishing-order](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3668-restore-finishing-order) |
+| [3945-digit-frequency-score](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
 | ------- |
