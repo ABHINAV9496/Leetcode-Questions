@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2942-find-words-containing-character](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2942-find-words-containing-character) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3668-restore-finishing-order](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3668-restore-finishing-order) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
