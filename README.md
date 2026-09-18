@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1108-defanging-an-ip-address) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
