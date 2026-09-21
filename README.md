@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1108-defanging-an-ip-address) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0771-jewels-and-stones](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
