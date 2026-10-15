@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0561-array-partition) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
