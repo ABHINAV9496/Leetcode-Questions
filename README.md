@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2974-minimum-number-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2942-find-words-containing-character](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/2942-find-words-containing-character) |
+| [3498-reverse-degree-of-a-string](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/3794-reverse-string-prefix) |
 ## Math
