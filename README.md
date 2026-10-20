@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1108-defanging-an-ip-address) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -260,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ABHINAV9496/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
